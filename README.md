@@ -26,8 +26,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
-cd dehazing_2
+git clone https://github.com/GloriousEpiphany/Image-dehazing.git
+cd Image-dehazing
 ```
 
 ### 2. 创建虚拟环境（推荐）
@@ -54,7 +54,7 @@ python main.py
 ## 项目结构
 
 ```
-dehazing_2/
+Image-dehazing/
 ├── main.py                 # 主程序入口
 ├── requirements.txt        # 项目依赖
 ├── README.md              # 项目文档
@@ -199,7 +199,7 @@ A: 关闭其他应用程序或处理较小的图像
 
 ## 许可证
 
-本项目采用MIT许可证，详见LICENSE文件。
+本项目采用Apache-2.0许可证，详见LICENSE文件。
 
 ## 贡献指南
 
@@ -215,7 +215,7 @@ A: 关闭其他应用程序或处理较小的图像
 
 - 项目主页：[GitHub Repository]
 - 问题反馈：[Issues Page]
-- 邮箱：developer@example.com
+- 邮箱：2964311848@qq.com
 
 ## 更新日志
 
