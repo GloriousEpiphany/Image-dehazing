@@ -1,0 +1,244 @@
+2025-09-25 09:19:28,768 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:19:28,768 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:19:28,768 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:19:42,586 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:19:42,586 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:19:42,586 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:19:56,591 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:19:56,594 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:19:56,594 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:19:56,630 - dehazing - ERROR - main.py:60 - 应用程序启动失败: MainWindow.__init__() takes 1 positional argument but 2 were given
+2025-09-25 09:20:20,507 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:20:20,512 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:20:20,512 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:20:20,550 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:20:20,550 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:20:20,550 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:20:20,550 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:20:20,618 - src.ui.main_window - WARNING - main_window.py:440 - 加载设置失败: 'ConfigManager' object has no attribute 'get_user_settings'
+2025-09-25 09:20:20,768 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:20:25,821 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: MainWindow.open_image() takes 1 positional argument but 2 were given
+2025-09-25 09:20:25,821 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\utils\error_handler.py", line 321, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.open_image() takes 1 positional argument but 2 were given
+
+2025-09-25 09:20:32,386 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: MainWindow.open_image() takes 1 positional argument but 2 were given
+2025-09-25 09:20:32,386 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\utils\error_handler.py", line 321, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.open_image() takes 1 positional argument but 2 were given
+
+2025-09-25 09:20:34,968 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: MainWindow.show_settings() takes 1 positional argument but 2 were given
+2025-09-25 09:20:34,968 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\utils\error_handler.py", line 321, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.show_settings() takes 1 positional argument but 2 were given
+
+2025-09-25 09:20:41,271 - src.ui.main_window - WARNING - main_window.py:696 - 保存配置失败: 'ConfigManager' object has no attribute 'save_config'
+2025-09-25 09:22:43,425 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:22:43,425 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:22:43,425 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:22:43,470 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:22:43,470 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:22:43,471 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:22:43,471 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:22:43,515 - src.ui.main_window - WARNING - main_window.py:440 - 加载设置失败: 'ConfigManager' object has no attribute 'get_user_settings'
+2025-09-25 09:22:43,668 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:22:46,007 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: MainWindow.open_image() takes 1 positional argument but 2 were given
+2025-09-25 09:22:46,007 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\utils\error_handler.py", line 321, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.open_image() takes 1 positional argument but 2 were given
+
+2025-09-25 09:22:47,897 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: MainWindow.show_settings() takes 1 positional argument but 2 were given
+2025-09-25 09:22:47,897 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\utils\error_handler.py", line 321, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.show_settings() takes 1 positional argument but 2 were given
+
+2025-09-25 09:22:50,026 - src.ui.main_window - WARNING - main_window.py:696 - 保存配置失败: 'ConfigManager' object has no attribute 'save_config'
+2025-09-25 09:25:25,114 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:25:25,114 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:25:25,114 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:25:25,144 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:25:25,144 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:25:25,150 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:25:25,150 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:25:25,381 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:25:50,813 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: 'ImageProcessor' object has no attribute 'load_image_info'
+2025-09-25 09:25:50,813 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\ui\main_window.py", line 477, in load_input_image
+    image_info = self.image_processor.load_image_info(file_path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ImageProcessor' object has no attribute 'load_image_info'
+
+2025-09-25 09:26:38,296 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:26:38,296 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:26:38,297 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:26:38,333 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:26:38,333 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:26:38,334 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:26:38,334 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:26:38,496 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:26:57,218 - src.ui.main_window - INFO - main_window.py:486 - 加载输入图像: D:/Software Documents/JetBrains/PyCharm Professional 2025/BPAM/datasets/dehazing/hazy/_G5I0003.png
+2025-09-25 09:26:59,272 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: MainWindow.start_processing() takes 1 positional argument but 2 were given
+2025-09-25 09:26:59,272 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\utils\error_handler.py", line 321, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.start_processing() takes 1 positional argument but 2 were given
+
+2025-09-25 09:27:02,091 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: SettingsDialog.__init__() takes from 1 to 2 positional arguments but 3 were given
+2025-09-25 09:27:02,091 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\ui\main_window.py", line 645, in show_settings
+    dialog = SettingsDialog(self.config_manager, self)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SettingsDialog.__init__() takes from 1 to 2 positional arguments but 3 were given
+
+2025-09-25 09:28:11,867 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:28:11,868 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:28:11,868 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:28:11,902 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:28:11,902 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:28:11,902 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:28:11,902 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:28:12,094 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:28:26,839 - src.ui.main_window - INFO - main_window.py:486 - 加载输入图像: D:/Software Documents/JetBrains/PyCharm Professional 2025/BPAM/datasets/dehazing/hazy/_G5I0003.png
+2025-09-25 09:28:28,408 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: 'UserSettings' object has no attribute 'dehazing_params'
+2025-09-25 09:28:28,409 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\ui\main_window.py", line 511, in start_processing
+    parameters = self.config_manager.get_user_settings().dehazing_params
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'UserSettings' object has no attribute 'dehazing_params'
+
+2025-09-25 09:28:34,111 - src.ui.settings_dialog - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:28:34,111 - src.ui.settings_dialog - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:28:35,015 - src.ui.settings_dialog - ERROR - settings_dialog.py:645 - 加载设置失败: 'UserSettings' object has no attribute 'dehazing_params'
+2025-09-25 09:28:38,810 - src.ui.settings_dialog - ERROR - settings_dialog.py:390 - 获取参数失败: DehazingParameters.__init__() got an unexpected keyword argument 'dark_channel_size'
+2025-09-25 09:28:38,810 - src.ui.settings_dialog - ERROR - settings_dialog.py:668 - 保存设置失败: 'ConfigManager' object has no attribute 'update_user_settings'
+2025-09-25 09:28:41,332 - src.ui.main_window - INFO - main_window.py:650 - Settings updated
+2025-09-25 09:31:15,838 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:31:15,838 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:31:15,838 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:31:15,876 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:31:15,876 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:31:15,876 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:31:15,876 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:31:16,061 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:31:32,824 - src.ui.main_window - INFO - main_window.py:486 - 加载输入图像: D:/Software Documents/JetBrains/PyCharm Professional 2025/BPAM/datasets/dehazing/hazy/_G5I0003.png
+2025-09-25 09:31:34,432 - src.ui.progress_dialog - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:31:34,432 - src.ui.progress_dialog - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:31:35,212 - src.ui.main_window - INFO - main_window.py:540 - 开始图像去雾处理
+2025-09-25 09:31:36,056 - src.ui.main_window - ERROR - main_window.py:187 - 图像处理异常: cannot import name 'NonHomogeneousDehazing' from 'src.algorithms.dehazing' (D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\algorithms\dehazing.py)
+2025-09-25 09:31:36,057 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: cannot import name 'NonHomogeneousDehazing' from 'src.algorithms.dehazing' (D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\algorithms\dehazing.py)
+2025-09-25 09:31:36,057 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\ui\main_window.py", line 142, in run
+    from ..algorithms.dehazing import NonHomogeneousDehazing
+ImportError: cannot import name 'NonHomogeneousDehazing' from 'src.algorithms.dehazing' (D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\algorithms\dehazing.py)
+
+2025-09-25 09:31:36,059 - src.ui.main_window - ERROR - main_window.py:594 - 图像处理失败
+2025-09-25 09:32:42,141 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:32:42,141 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:32:42,141 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:32:42,176 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:32:42,177 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:32:42,177 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:32:42,177 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:32:42,364 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:32:57,764 - src.ui.main_window - INFO - main_window.py:486 - 加载输入图像: D:/Software Documents/JetBrains/PyCharm Professional 2025/BPAM/datasets/dehazing/hazy/_G5I0003.png
+2025-09-25 09:32:59,528 - src.ui.progress_dialog - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:32:59,534 - src.ui.progress_dialog - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:33:00,432 - src.ui.main_window - INFO - main_window.py:540 - 开始图像去雾处理
+2025-09-25 09:33:00,976 - src.ui.main_window - ERROR - main_window.py:187 - 图像处理异常: [ALGORITHM_PROCESS_FAILED] 去雾处理失败
+2025-09-25 09:33:00,983 - src.utils.error_handler - ERROR - error_handler.py:173 - DehazingError: [ALGORITHM_PROCESS_FAILED] 去雾处理失败
+2025-09-25 09:33:00,983 - src.utils.error_handler - ERROR - error_handler.py:175 - Details: 'NonHomogeneousDehazingAlgorithm' object has no attribute 'process_image'
+2025-09-25 09:33:00,983 - src.utils.error_handler - ERROR - error_handler.py:177 - Original exception: 'NonHomogeneousDehazingAlgorithm' object has no attribute 'process_image'
+2025-09-25 09:33:00,983 - src.utils.error_handler - ERROR - error_handler.py:178 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\ui\main_window.py", line 164, in run
+    result = dehazer.process_image(
+             ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NonHomogeneousDehazingAlgorithm' object has no attribute 'process_image'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\ui\main_window.py", line 177, in run
+    raise ImageError("去雾处理失败", ErrorCode.ALGORITHM_PROCESS_FAILED, str(e), e)
+src.utils.error_handler.ImageError: [ALGORITHM_PROCESS_FAILED] 去雾处理失败
+
+2025-09-25 09:33:00,990 - src.ui.main_window - ERROR - main_window.py:594 - 图像处理失败
+2025-09-25 09:33:52,343 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:33:52,343 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:33:52,343 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:33:52,379 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:33:52,379 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:33:52,379 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:33:52,379 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:33:52,557 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:34:08,280 - src.ui.main_window - INFO - main_window.py:493 - 加载输入图像: D:/Software Documents/JetBrains/PyCharm Professional 2025/BPAM/datasets/dehazing/hazy/_G5I0003.png
+2025-09-25 09:34:09,672 - src.ui.progress_dialog - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:34:09,673 - src.ui.progress_dialog - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:34:10,488 - src.ui.main_window - INFO - main_window.py:547 - 开始图像去雾处理
+2025-09-25 09:34:11,165 - src.ui.main_window - ERROR - main_window.py:194 - 图像处理异常: [ALGORITHM_PROCESS_FAILED] 去雾处理失败
+2025-09-25 09:34:11,165 - src.utils.error_handler - ERROR - error_handler.py:173 - DehazingError: [ALGORITHM_PROCESS_FAILED] 去雾处理失败
+2025-09-25 09:34:11,165 - src.utils.error_handler - ERROR - error_handler.py:175 - Details: module 'cv2' has no attribute 'ximgproc'
+2025-09-25 09:34:11,165 - src.utils.error_handler - ERROR - error_handler.py:177 - Original exception: module 'cv2' has no attribute 'ximgproc'
+2025-09-25 09:34:11,170 - src.utils.error_handler - ERROR - error_handler.py:178 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\ui\main_window.py", line 171, in run
+    result_image, processing_info = dehazer.dehaze_image(
+                                    ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\algorithms\dehazing.py", line 103, in dehaze_image
+    transmission_refined = self._refine_transmission(img_float, transmission_raw)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\algorithms\dehazing.py", line 237, in _refine_transmission
+    refined = cv2.ximgproc.guidedFilter(
+              ^^^^^^^^^^^^
+AttributeError: module 'cv2' has no attribute 'ximgproc'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\ui\main_window.py", line 184, in run
+    raise ImageError("去雾处理失败", ErrorCode.ALGORITHM_PROCESS_FAILED, str(e), e)
+src.utils.error_handler.ImageError: [ALGORITHM_PROCESS_FAILED] 去雾处理失败
+
+2025-09-25 09:34:11,173 - src.ui.main_window - ERROR - main_window.py:601 - 图像处理失败
+2025-09-25 09:35:07,765 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:35:07,765 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:35:07,765 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:35:07,802 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:35:07,802 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:35:07,802 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:35:07,802 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:35:07,953 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:35:22,989 - src.ui.main_window - INFO - main_window.py:493 - 加载输入图像: D:/Software Documents/JetBrains/PyCharm Professional 2025/BPAM/datasets/dehazing/hazy/_G5I0003.png
+2025-09-25 09:35:24,695 - src.ui.progress_dialog - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:35:24,695 - src.ui.progress_dialog - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:35:25,428 - src.ui.main_window - INFO - main_window.py:547 - 开始图像去雾处理
+2025-09-25 09:35:26,796 - src.ui.main_window - INFO - main_window.py:589 - 处理完成: D:\Software Documents\JetBrains\PyCharm Professional 2025\BPAM\datasets\dehazing\hazy\_G5I0003_dehazed.png
+2025-09-25 09:36:19,008 - dehazing - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:36:19,008 - dehazing - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:36:19,009 - dehazing - INFO - main.py:32 - 启动非均质有雾图像去雾应用程序
+2025-09-25 09:36:19,037 - src.ui.main_window - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:36:19,037 - src.ui.main_window - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:36:19,037 - src.utils.error_handler - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:36:19,043 - src.utils.error_handler - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:36:19,256 - dehazing - INFO - main.py:51 - 应用程序界面已启动
+2025-09-25 09:36:32,644 - src.ui.main_window - INFO - main_window.py:493 - 加载输入图像: D:/Software Documents/JetBrains/PyCharm Professional 2025/BPAM/datasets/dehazing/hazy/_G5I0003.png
+2025-09-25 09:36:34,323 - src.ui.progress_dialog - INFO - logger.py:130 - 日志系统已初始化 - 级别: INFO
+2025-09-25 09:36:34,323 - src.ui.progress_dialog - INFO - logger.py:132 - 日志文件: logs\dehazing_2025-09-25.log
+2025-09-25 09:36:34,881 - src.ui.main_window - INFO - main_window.py:547 - 开始图像去雾处理
+2025-09-25 09:36:36,266 - src.ui.main_window - INFO - main_window.py:589 - 处理完成: D:\Software Documents\JetBrains\PyCharm Professional 2025\BPAM\datasets\dehazing\hazy\_G5I0003_dehazed.png
+2025-09-25 09:36:41,129 - src.utils.error_handler - ERROR - error_handler.py:197 - System error: MainWindow.save_result() takes 1 positional argument but 2 were given
+2025-09-25 09:36:41,129 - src.utils.error_handler - ERROR - error_handler.py:198 - Traceback (most recent call last):
+  File "D:\Software Documents\JetBrains\PyCharm Professional 2025\dehazing_2\src\utils\error_handler.py", line 321, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.save_result() takes 1 positional argument but 2 were given
+
