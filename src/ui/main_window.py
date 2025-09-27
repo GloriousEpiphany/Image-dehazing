@@ -684,7 +684,7 @@ class MainWindow(QMainWindow):
             "非均质有雾图像去雾系统 v1.0\n\n"
             "基于改进的暗通道先验和引导滤波的\n"
             "非均质有雾图像去雾算法\n\n"
-            "开发者: AI Assistant\n"
+            "开发者: GloriousEpiphany\n"
             "技术栈: Python + PyQt6 + OpenCV"
         )
     
